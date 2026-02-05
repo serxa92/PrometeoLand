@@ -67,5 +67,10 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "PrometeoLand.slnx"
+    "dotnet.defaultSolution": "PrometeoLand.slnx",
+    "cSpell.words": [
+        "Behaviour",
+        "Playermovement",
+        "Rigidbody"
+    ]
 }
